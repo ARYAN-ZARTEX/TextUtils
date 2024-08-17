@@ -50,7 +50,7 @@ function App() {
     {/* <Routes> */}
           {/* <Route exact path="/about" element={<About />} /> */}
           {/* <Route exact path="/" element={}/> */}
-          <Textform showAlert={showAlert} heading="Enter the Text to Analyse" mode={mode}/>
+          <Textform showAlert={showAlert} heading="Textutils - Style Your Paragraph As Professional" mode={mode}/>
     {/* </Routes> */}
     </div>
     {/* </Router> */}
